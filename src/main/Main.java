@@ -6,5 +6,7 @@ public class Main {
 		// TODO Auto-generated method stub
 
 	}
-
+	public void write(String s){
+		System.out.println(s);
+	}
 }
