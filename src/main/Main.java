@@ -4,9 +4,9 @@ public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		write("String");
 	}
-	public void write(String s){
-		System.out.println(s);
+	public static void write(String text){
+		System.out.println(text);
 	}
 }
